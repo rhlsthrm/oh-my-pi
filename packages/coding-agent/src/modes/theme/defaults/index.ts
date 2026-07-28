@@ -51,6 +51,7 @@ import light_arctic from "./light-arctic.json" with { type: "json" };
 import light_aurora_day from "./light-aurora-day.json" with { type: "json" };
 import light_canyon from "./light-canyon.json" with { type: "json" };
 import light_catppuccin from "./light-catppuccin.json" with { type: "json" };
+import light_catppuccin_glass from "./light-catppuccin-glass.json" with { type: "json" };
 import light_cirrus from "./light-cirrus.json" with { type: "json" };
 import light_coral from "./light-coral.json" with { type: "json" };
 import light_cyberpunk from "./light-cyberpunk.json" with { type: "json" };
@@ -151,6 +152,7 @@ export const defaultThemes = {
 	"light-aurora-day": light_aurora_day,
 	"light-canyon": light_canyon,
 	"light-catppuccin": light_catppuccin,
+	"light-catppuccin-glass": light_catppuccin_glass,
 	"light-cirrus": light_cirrus,
 	"light-coral": light_coral,
 	"light-cyberpunk": light_cyberpunk,
